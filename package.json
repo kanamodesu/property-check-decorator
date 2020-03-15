@@ -1,0 +1,25 @@
+{
+  "name": "property-check-decorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanamodesu/property-check-decorator.git"
+  },
+  "keywords": ["typescript", "contract", "annotation", "decorator"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanamodesu/property-check-decorator/issues"
+  },
+  "homepage": "https://github.com/kanamodesu/property-check-decorator#readme",
+  "dependencies": {
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  }
+}
